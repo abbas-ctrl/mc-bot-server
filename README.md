@@ -11,12 +11,12 @@ POST /create
 Content-Type: application/json
 {
   apiKey: "valid api key",
-  type: "one of the bots from lib/bots/*.js",
+  type: "rbot",
   port: 25565,
   host: "abbasasas.aternos.me"
   username: "mybotname",
   password: "optional password",
-  owner: "username who started the bot"
+  owner: "abbas-ctrl"
 }
 ```
 
